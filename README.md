@@ -11,6 +11,6 @@ Onde insiro os comandos para teste?
 
 src/index.ts
 
-#Como executo o projeto?
+Como executo o projeto?
 
 yarn dev
